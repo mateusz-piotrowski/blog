@@ -6,6 +6,10 @@
 
 - Rails app default skeleton
 
+**Changed :**
+
+- SQLite database to PostgreSQL database
+
 ## [0.0.1] (January 02 2022)
 
 **Added :**
