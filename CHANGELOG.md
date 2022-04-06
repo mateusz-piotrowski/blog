@@ -5,6 +5,9 @@
 **Added :**
 
 - Rails app default skeleton
+- Target Environment
+- Default Controller configuration
+- Default Port configuration
 
 **Changed :**
 
