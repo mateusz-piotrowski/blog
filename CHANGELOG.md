@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.3] (April 07 2022)
+
+**Added :**
+
+- Root route
+
 ## [0.0.2] (April 06 2022)
 
 **Added :**
