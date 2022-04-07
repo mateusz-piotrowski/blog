@@ -13,8 +13,8 @@
 #
 # Configure Using Gemfile
 # gem "pg"
-#
 default: &default
+#
   adapter: postgresql
   encoding: unicode
   # For details on connection pooling, see Rails configuration guide
@@ -81,6 +81,6 @@ test:
 #
 production:
   <<: *default
-  database: blog_production
-  username: blog
-  password: <%= ENV["BLOG_DATABASE_PASSWORD"] %>
+  database: d362tpscgar8p
+  username: wigopdyzechure
+  password: fe1f3115307e09f1dd48cee80610320bb858497f68437047a8f43ad3134a8d90

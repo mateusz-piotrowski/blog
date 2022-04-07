@@ -6,6 +6,10 @@
 
 - Root route
 
+**Updated :**
+
+- Production environment credentials
+
 ## [0.0.2] (April 06 2022)
 
 **Added :**
