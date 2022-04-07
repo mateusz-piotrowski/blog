@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.4] (April 08 2022)
+
+**Added :**
+
+- Simple CSS stylesheet
+
 ## [0.0.3] (April 07 2022)
 
 **Added :**
@@ -29,4 +35,3 @@
 
 - LICENSE
 - README.md
-
