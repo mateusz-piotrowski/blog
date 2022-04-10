@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.6] (April 11 2022)
+
+**Added :**
+
+- The comments to the posts
+
 ## [0.0.5] (April 10 2022)
 
 **Added :**
