@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.5] (April 10 2022)
+
+**Changed :**
+
+- Text Area to Rich Text Area (Trix Editor)
+
 ## [0.0.4] (April 08 2022)
 
 **Added :**
