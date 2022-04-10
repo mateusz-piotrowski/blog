@@ -2,6 +2,10 @@
 
 ## [0.0.5] (April 10 2022)
 
+**Added :**
+
+- Validation of title and content during new post adding
+
 **Changed :**
 
 - Text Area to Rich Text Area (Trix Editor)
