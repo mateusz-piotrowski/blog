@@ -5,6 +5,7 @@
 **Added :**
 
 - Validation of title and content during new post adding
+- The post published time
 
 **Changed :**
 
