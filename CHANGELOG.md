@@ -6,6 +6,10 @@
 
 - The comments to the posts
 
+**Updated :**
+
+- Comment dependency required to the post deletion
+
 ## [0.0.5] (April 10 2022)
 
 **Added :**
