@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.7] (April 12 2022)
+
+**Updated :**
+
+- Move post timestamp to the top - over the post title
+
 ## [0.0.6] (April 11 2022)
 
 **Added :**
