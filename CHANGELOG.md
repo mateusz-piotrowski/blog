@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.8] (April 13 2022)
+
+**Updated :**
+
+- Move comments counter to the bottom - behind the post content
+
 ## [0.0.7] (April 12 2022)
 
 **Updated :**
