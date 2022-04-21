@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.9] (April 21 2022)
+
+**Updated :**
+
+- Comments header size from h2 to h3
+
 ## [0.0.8] (April 13 2022)
 
 **Updated :**
