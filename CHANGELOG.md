@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.10] (May 01 2022)
+
+**Changed :**
+
+- The order of links under the blog post in edit mode
+
 ## [0.0.9] (April 21 2022)
 
 **Updated :**
